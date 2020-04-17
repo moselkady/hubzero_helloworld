@@ -1,0 +1,6 @@
+{  
+  "name": "mod_helloworld",  
+  "description": "Hello World module",  
+  "license": "MIT",  
+  "type": "hubzero-module"  
+} 
